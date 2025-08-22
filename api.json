@@ -117,7 +117,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-       "src/assets/images/Frame 329.jpg"
+       "assets/images/Frame 329.jpg"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
     },
@@ -177,7 +177,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-       "src/assets/images/Frame 328.jpg"
+       " assets/images/Frame 328.jpg"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
     },
@@ -237,7 +237,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-       "src/assets/images/Frame 330.jpg"
+       " assets/images/Frame 330.jpg"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
     },
@@ -297,7 +297,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "src/assets/images/Frame15.jpg"
+        " assets/images/Frame15.jpg"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
     },
@@ -357,7 +357,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "src/assets/images/Frame 328xxxx.jpg",
+        " assets/images/Frame 328xxxx.jpg",
         "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
         "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
       ],
@@ -419,7 +419,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-       "src/assets/images/Frame 329zzz.jpg",
+       " assets/images/Frame 329zzz.jpg",
         "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
         "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
       ],
@@ -481,7 +481,7 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-       "src/assets/images/Frame 328 (1).jpg",
+       " assets/images/Frame 328 (1).jpg",
         "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
         "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
       ],
@@ -493,3 +493,4 @@
   "limit": 14
 
 }
+
